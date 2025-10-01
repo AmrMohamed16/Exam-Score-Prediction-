@@ -41,13 +41,14 @@ final performance.
 | Exam_Score                | Final exam score (Target variable) |
 
 # Tools 
-I. Jupyter Notebook & VS Code
-II. Python 3.x
-III. pandas, numpy
-IV. matplotlib, seaborn
-V. scikit-learn
-VI. pickle
-VII. Streamlit
+1. Jupyter Notebook & VS Code
+2. Python 3.x
+3. pandas, numpy
+4. matplotlib, seaborn
+5. scikit-learn
+6. pickle
+7. Streamlit
+
 
 # Sample_Run
 <img width="1014" height="716" alt="Screenshot 2025-10-01 at 5 33 05 am" src="https://github.com/user-attachments/assets/ff9b7214-dabb-4bfc-80d7-3f95f78bcb18" />
