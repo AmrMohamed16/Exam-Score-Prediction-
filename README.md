@@ -17,6 +17,29 @@ factors that may influence exam performance.
 It includes details such as study habits, attendance, family background, school environment, and lifestyle aspects. The target variable is Exam_Score, representing each student’s
 final performance.
 
+| Feature                   | Description |
+|----------------------------|-------------|
+| Hours_Studied             | Number of hours a student studies daily |
+| Attendance                | Percentage of student’s attendance |
+| Parental_Involvement      | Level of parental engagement (High/Medium/Low) |
+| Access_to_Resources       | Availability of study resources (Yes/No) |
+| Extracurricular_Activities| Participation in extracurricular activities (Yes/No) |
+| Sleep_Hours               | Average daily sleep hours |
+| Previous_Scores           | Previous academic scores |
+| Motivation_Level          | Student’s motivation level (High/Medium/Low) |
+| Internet_Access           | Availability of internet at home (Yes/No) |
+| Tutoring_Sessions         | Number of tutoring sessions attended |
+| Family_Income             | Family income level (High/Medium/Low) |
+| Teacher_Quality           | Quality of teachers (High/Medium/Low) |
+| School_Type               | Type of school (Public/Private) |
+| Peer_Influence            | Peer influence level (Positive/Negative) |
+| Physical_Activity         | Hours spent on physical activities |
+| Learning_Disabilities     | Presence of learning disabilities (Yes/No) |
+| Parental_Education_Level  | Highest education level of parents |
+| Distance_from_Home        | Distance of school from home |
+| Gender                    | Gender of student |
+| Exam_Score                | Final exam score (Target variable) |
+
 # Tools 
 I. Jupyter Notebook & VS Code
 II. Python 3.x
